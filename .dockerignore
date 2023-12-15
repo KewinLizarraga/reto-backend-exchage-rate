@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.env
+*.env
+.DS_Store
+.git
+.gitignore
+.dockerignore
+.docker
+.vscode
+.idea
+*.log
+*.swp
